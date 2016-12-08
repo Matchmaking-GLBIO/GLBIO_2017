@@ -1,4 +1,4 @@
-# GLBIO_2017
+# GLBIO-2017
 Matchmaking for Computational and Experimental Biologists Session @ GLBIO2017
 Half-day session is an interactive tutorial, abstracts from tool developers through EasyChair.
 
