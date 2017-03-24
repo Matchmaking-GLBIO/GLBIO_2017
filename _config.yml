@@ -1,0 +1,8 @@
+title: Matchmating for Computational and Experimental Biologists Session - GLBIO 2017
+description: "@GLBIO2017 @BBSD2017"
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
