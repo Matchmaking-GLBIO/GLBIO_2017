@@ -16,7 +16,7 @@ If you have some data that you need help analyzing, or if you're trying to learn
 <b>__3 - 15 min topic talks__
 * Ben Busby, NIH -- ​Simple Computational Tools for RNA-seq Isoform Analysis​
 * Ewy Mathe, OSU -- ​Chromatin Accessibility Analysis for Biological/Clinical Applications
-* TBD -- ​Omic Data Integration with Popular Bioinformatic Tools
+* James Chen, OSU -- ​Integrating Genomics and Clinical Outcomes Data to Optimize Patient Matching
 
 <b> __Speed Dating Session__
 
